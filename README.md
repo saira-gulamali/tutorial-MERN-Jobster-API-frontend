@@ -1,10 +1,12 @@
-# 06 - Jobs API App Frontend
+# 06.5 - Jobster API Backend
 
-Taken from John Smilga - Node Course - Section 9 - Jobs API
+Taken from John Smilga - Node Course - Section 10 - Jobster API
 
 ## Description
 
-React frontend for Jobs API providing data for Jobs, with authenticated/protected routes
+Full stack App (API and React frontend) providing data for Jobs, with authenticated/protected routes.
+
+This repo contains the frontend only. For the backend repo, refer to https://github.com/saira-gulamali/tutorial-MERN-Jobster-API-backend
 
 ## Tech stack
 
